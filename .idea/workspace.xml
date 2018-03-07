@@ -1,93 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3adc78a-0fd7-4a0e-91a5-91a019923665" name="Default" comment="change port to 80">
+    <list default="true" id="b3adc78a-0fd7-4a0e-91a5-91a019923665" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AppData.sln" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/AppData.csproj" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/AppData.csproj.user" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/App_Start/BundleConfig.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/App_Start/FilterConfig.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/App_Start/RouteConfig.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/App_Start/WebApiConfig.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/Site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/images/ui-icons_222222_256x240.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/images/ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/images/ui-icons_454545_256x240.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/images/ui-icons_888888_256x240.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery-ui.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.accordion.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.all.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.autocomplete.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.base.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.button.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.core.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.datepicker.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.dialog.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.progressbar.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.resizable.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.selectable.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.slider.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.tabs.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/jquery.ui.theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/images/ui-icons_222222_256x240.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/images/ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/images/ui-icons_454545_256x240.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/images/ui-icons_888888_256x240.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/jquery-ui.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/jquery.ui.accordion.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/jquery.ui.autocomplete.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/jquery.ui.button.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/jquery.ui.core.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/jquery.ui.datepicker.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/jquery.ui.dialog.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/jquery.ui.progressbar.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/jquery.ui.resizable.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/jquery.ui.selectable.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/jquery.ui.slider.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/jquery.ui.tabs.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Content/themes/base/minified/jquery.ui.theme.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Controllers/EventController.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Controllers/HomeController.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Global.asax" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Global.asax.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Properties/AssemblyInfo.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Views/Home/Index.cshtml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Views/Shared/Error.cshtml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Views/Shared/_Layout.cshtml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Views/Web.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Views/_ViewStart.cshtml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Web.Debug.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Web.Release.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/Web.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/obj/Debug/AppData.csproj.FileListAbsolute.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/obj/Debug/AppData.csprojResolveAssemblyReference.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/obj/Debug/AppData.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/obj/Debug/AppData.pdb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AppData/packages.config" afterPath="" />
       <change beforePath="$PROJECT_DIR$/scripts/web-server.js" afterPath="$PROJECT_DIR$/scripts/web-server.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -115,8 +31,8 @@
       <file leaf-file-name="web-server.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/web-server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            <state relative-caret-position="195">
+              <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -249,11 +165,6 @@
               <item name="DemoApp-Finished" type="b2602c69:ProjectViewProjectNode" />
               <item name="DemoApp-Finished" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DemoApp-Finished" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoApp-Finished" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -297,7 +208,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520212137381</updated>
-      <workItem from="1520212138787" duration="4866000" />
+      <workItem from="1520212138787" duration="5412000" />
     </task>
     <task id="LOCAL-00001" summary="change port to 80">
       <created>1520216025938</created>
@@ -306,20 +217,27 @@
       <option name="project" value="LOCAL" />
       <updated>1520216025938</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change port to 80">
+      <created>1520386173292</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520386173292</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4866000" />
+    <option name="totallyTimeSpent" value="5412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="812" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
@@ -527,8 +445,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/web-server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="195">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
           <folding />
         </state>
       </provider>
